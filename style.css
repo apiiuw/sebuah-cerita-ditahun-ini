@@ -1,0 +1,157 @@
+@media screen and (max-width: 1500px) {
+  body {
+    width: 100%;
+  }
+  .iphone {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .iphone .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 390px;
+    height: 2600px;
+    position: relative;
+  }
+
+  .iphone .text-wrapper {
+    position: absolute;
+    width: 320px;
+    top: 59px;
+    left: 35px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 700;
+    color: var(--dark-color);
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+
+  .iphone .p {
+    position: absolute;
+    width: 328px;
+    top: 116px;
+    left: 31px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 400;
+    color: var(--dark-color);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .iphone .div-music {
+    position: absolute;
+    width: 332px;
+    height: 130px;
+    top: 204px;
+    left: 30px;
+  }
+
+  .iphone .overlap-group {
+    position: relative;
+    width: 330px;
+    height: 130px;
+    background-color: #ff6464;
+    border-radius: 15px;
+  }
+
+  .iphone .text-wrapper-2 {
+    position: absolute;
+    width: 241px;
+    top: 19px;
+    left: 44px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .iphone .div-music-2 {
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    top: 50%;
+    background-color: #7c7878;
+    border-radius: 15px;
+  }
+
+  .iphone .kotak-isi {
+    position: absolute;
+    width: 396px;
+    height: 2400px;
+    top: 367px;
+    left: 0;
+  }
+
+  .iphone .overlap {
+    position: relative;
+    width: 390px;
+    height: 2150px;
+    background-color: #edf7fa;
+    border: 1px solid;
+    border-color: #000000;
+  }
+
+  .iphone .jakarta-desember {
+    position: absolute;
+    width: 185px;
+    top: 1909px;
+    left: 173px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 400;
+    color: #21243d;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .iphone .text-wrapper-3 {
+    position: absolute;
+    width: 320px;
+    top: 27px;
+    left: 34px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 700;
+    color: var(--dark-color);
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+
+  .iphone .dariku-untukmu {
+    position: absolute;
+    width: 328px;
+    top: 87px;
+    left: 30px;
+    font-family: "Heebo", Helvetica;
+    font-weight: 400;
+    color: var(--dark-color);
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .iphone .text-wrapper-4 {
+    position: absolute;
+    top: 2439px;
+    font-family: "Heebo-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+}
